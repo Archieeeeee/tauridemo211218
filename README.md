@@ -1,4 +1,4 @@
-
+```
 git clone https://github.com/Archieeeeee/tauridemo211218.git
 
 #open a new terminal
@@ -20,6 +20,7 @@ yarn tauri dev
 # test build
 yarn tauri build --debug
 # goto src-tauri/target/debug/ and run tauridemo-desktop.exe
+```
 
 
 
