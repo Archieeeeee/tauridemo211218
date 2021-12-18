@@ -1,7 +1,7 @@
 <template>
 
     <div>MainWeb</div>
-
+    <h3>a welcome dialog should be popped up if no error</h3>
 </template>
 
 <style>

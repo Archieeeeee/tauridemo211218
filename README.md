@@ -19,7 +19,7 @@ yarn run dev
 yarn tauri dev
 # test build
 yarn tauri build --debug
-# goto src-tauri/target/debug/ and run xxx.exe
+# goto src-tauri/target/debug/ and run tauridemo-desktop.exe
 
 
 
